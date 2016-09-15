@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "345445856575",
+    "firebase_url": "https://mypushnotapp.firebaseio.com",
+    "project_id": "mypushnotapp",
+    "storage_bucket": "mypushnotapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345445856575:android:d346f0142a0d635c",
+        "android_client_info": {
+          "package_name": "guillermoab.posgrado.unam.mx.mypushnotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345445856575-2tlerrd6n2jruel1uf2kilj9kqplh3in.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "guillermoab.posgrado.unam.mx.mypushnotapp",
+            "certificate_hash": "733A4B7C573FF57204DE760CA03D7C019EB5F3E6"
+          }
+        },
+        {
+          "client_id": "345445856575-knp6h53tpt6n3r669fuovei07h9ugjdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACtRy0CXM66WExx9uiDTVqPO-uvJeD4pQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345445856575-knp6h53tpt6n3r669fuovei07h9ugjdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
